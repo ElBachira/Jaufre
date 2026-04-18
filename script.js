@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // =================================================================
     const songs = [
         {
-            title: "The Peefect Girl",
+            title: "The Perfect Girl",
             artist: "Mareux",
             src: "song.mp3",
             lyrics: [
